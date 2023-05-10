@@ -4,7 +4,9 @@ Ever felt the need to have an increased number of visits to your portfolio websi
 
 With a rather simple mechanism, a Python script having a mere 15 lines of code, you can complete the above tasks and fulfill any other needs that you may have of this kind.
 
-Firstly, you need to <b>pip install keyboard</b> in you device -
+First of all, you have to ensure that <b>Python is installed in your device</b>, if it isn't, you can do so from here - https://www.python.org/downloads/
+
+Now, you need to <b>pip install keyboard</b> in you device -
 
 <img width="207" alt="image" src="https://github.com/surajiyer26/Website-Auto-Visitor/assets/114157491/d61964ed-ecc4-4402-b59b-ff323689713c">
 
