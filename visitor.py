@@ -2,10 +2,10 @@ import webbrowser
 import time
 import keyboard
 
-count = 15 # number of times you want to open a tab
-secs = 1.5 # time after which a tab is to be closed
+count = x # number of times you want to open a tab
+secs = x # time after which a tab is to be closed
 
-url = 'https://www.linkedin.com/in/suraj-iyer-524342228/'
+url = 'xyz'
 
 for _ in range (count):
     # opens a new tab
