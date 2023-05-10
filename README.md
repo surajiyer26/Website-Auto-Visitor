@@ -1,10 +1,16 @@
 # Website-Auto-Visitor
 
-Ever felt the need to have an increased number of visits to your portfolio website? Or maybe an increased number of impressions on the unstop page of a event you might be hosting in your college? Well, this this the right place to be.
+Ever felt the need to have an increased number of visits to your portfolio website? Increased number of views on your Instagram reel? Or maybe an increased number of impressions on the unstop page of a event you might be hosting in your college? Well, this this the right place to be.
 
 With a rather simple mechanism, a Python script having a mere 15 lines of code, you can complete the above tasks and fulfill any other needs that you may have of this kind.
 
-All you have to do is open the visitor.py file in your favorite code editor.
+Firstly, you need to <b>pip install keyboard</b> in you device -
+
+<img width="207" alt="image" src="https://github.com/surajiyer26/Website-Auto-Visitor/assets/114157491/d61964ed-ecc4-4402-b59b-ff323689713c">
+
+</br>
+
+Now all you have to do is open the visitor.py file in your favorite code editor -
 
 <img width="960" alt="image" src="https://github.com/surajiyer26/Website-Auto-Visitor/assets/114157491/d04ddfc9-c7ba-4e19-af78-b82d930ca570">
 
